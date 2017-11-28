@@ -1,0 +1,12 @@
+C:\Users\NHAT-PC\Desktop\Admin\EF\bin\Debug\EF.dll.config
+C:\Users\NHAT-PC\Desktop\Admin\EF\bin\Debug\EF.dll
+C:\Users\NHAT-PC\Desktop\Admin\EF\bin\Debug\EF.pdb
+C:\Users\NHAT-PC\Desktop\Admin\EF\bin\Debug\EntityFramework.dll
+C:\Users\NHAT-PC\Desktop\Admin\EF\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\NHAT-PC\Desktop\Admin\EF\bin\Debug\EntityFramework.xml
+C:\Users\NHAT-PC\Desktop\Admin\EF\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\NHAT-PC\Desktop\Admin\EF\obj\Debug\EF.Migrations.InitialCreate.resources
+C:\Users\NHAT-PC\Desktop\Admin\EF\obj\Debug\EF.Migrations.ChangeKeyEmployeeTable.resources
+C:\Users\NHAT-PC\Desktop\Admin\EF\obj\Debug\EF.csproj.GenerateResource.Cache
+C:\Users\NHAT-PC\Desktop\Admin\EF\obj\Debug\EF.dll
+C:\Users\NHAT-PC\Desktop\Admin\EF\obj\Debug\EF.pdb
