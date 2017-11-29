@@ -58,8 +58,13 @@
     <Compile Include="Migrations\201711280955570_ChangeKeyEmployeeTable.Designer.cs">
       <DependentUpon>201711280955570_ChangeKeyEmployeeTable.cs</DependentUpon>
     </Compile>
+    <Compile Include="Migrations\201711290704014_DeleteDataAnotationTableEmployee.cs" />
+    <Compile Include="Migrations\201711290704014_DeleteDataAnotationTableEmployee.Designer.cs">
+      <DependentUpon>201711290704014_DeleteDataAnotationTableEmployee.cs</DependentUpon>
+    </Compile>
     <Compile Include="Migrations\Configuration.cs" />
     <Compile Include="Models\Employee.cs" />
+    <Compile Include="Models\Users.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
   <ItemGroup>
@@ -68,6 +73,9 @@
     </EmbeddedResource>
     <EmbeddedResource Include="Migrations\201711280955570_ChangeKeyEmployeeTable.resx">
       <DependentUpon>201711280955570_ChangeKeyEmployeeTable.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Migrations\201711290704014_DeleteDataAnotationTableEmployee.resx">
+      <DependentUpon>201711290704014_DeleteDataAnotationTableEmployee.cs</DependentUpon>
     </EmbeddedResource>
   </ItemGroup>
   <ItemGroup>
