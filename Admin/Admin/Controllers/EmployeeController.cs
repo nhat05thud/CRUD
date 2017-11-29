@@ -55,8 +55,9 @@ namespace Admin.Controllers
         }
         [HttpPost]
         public ActionResult Delete(int id) {
-            using (EmployeeContext db = new EmployeeContext()) {
-                    Employee emp = db.Employees.Where(x=>x.EmployeeID == id).FirstOrDefault<Employee>();
+            using (EmployeeContext db = new EmployeeContext())
+            {
+                Employee emp = db.Employees.Where(x => x.EmployeeID == id).FirstOrDefault<Employee>();
                 db.Employees.Remove(emp);
                 db.SaveChanges();
                 return Json(new { success = true, message = "Deleted successfully!!!" }, JsonRequestBehavior.AllowGet);
